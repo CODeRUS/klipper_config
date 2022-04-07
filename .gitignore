@@ -1,0 +1,6 @@
+printer-*.cfg
+*.png
+*.jpg
+telegram.conf
+*.bkp
+*.swp
