@@ -1,0 +1,3 @@
+[filter "gitfilter"]
+    clean=python .gitfilter.py %f
+    required
