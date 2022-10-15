@@ -1,4 +1,7 @@
 printer-*.cfg
+*secrets.conf
+moonraker-auth.conf
+moonraker-obico.cfg
 *.png
 *.jpg
 *.bkp
